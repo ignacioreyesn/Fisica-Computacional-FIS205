@@ -14,8 +14,6 @@ Este repositorio contiene el desarrollo de un simulador computacional para el es
 
 Actualmente, el simulador permite visualizar la dinámica en sistema cerrado, proyectando la evolución temporal del estado cuántico sobre la **Esfera de Bloch**.
 
-### Demostración Visual
-
 
 ---
 
