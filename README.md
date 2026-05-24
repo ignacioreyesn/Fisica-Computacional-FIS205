@@ -26,7 +26,7 @@ El material está organizado en las siguientes carpetas:
 **`Tarea_1/`**: Contiene los scripts correspondientes a las resoluciones de la primera tarea del curso.
   * `tarea1problema1.py`
   * `tarea1problema2.py`
-  * `tarea1problema4.py`
+  * `tarea1problema4.py` \
 **`Proyecto_Avance_1/`**: Contiene la primera entrega del proyecto final.
   * `Avance 1 FIS205.pdf`: Informe detallado con el marco teórico, abarcando la parametrización de estados, ecuación de Liouville y la derivación de la ecuación maestra de Lindblad.
   * `DinamicaQubit1.py`: Código fuente del simulador actual, utilizando `scipy.integrate.solve_ivp` para resolver la dinámica cerrada.
