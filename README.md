@@ -1,10 +1,8 @@
 # Simulador de Oscilaciones de Rabi y Dinámica de Qubits
 
 **Universidad Técnica Federico Santa María** **Departamento de Física** **Curso:** Física Computacional FIS205   
-**Profesores:** Dr. Ariel Norambuena & Dr. Nicolas Viaux \\
-
-**Ayudante:** Cristóbal Benavides \\
-
+**Profesores:** Dr. Ariel Norambuena & Dr. Nicolas Viaux \
+**Ayudante:** Cristóbal Benavides \
 **Estudiante:** Ignacio Reyes 
 
 
