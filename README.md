@@ -30,6 +30,10 @@ El material está organizado en las siguientes carpetas:
   * `Avance 1 FIS205.pdf`: Informe detallado con el marco teórico, abarcando la parametrización de estados, ecuación de Liouville y la derivación de la ecuación maestra de Lindblad.
   * `DinamicaQubit1.py`: Código fuente del simulador actual, utilizando `scipy.integrate.solve_ivp` para resolver la dinámica cerrada.
 
+**`Proyecto_Avance_2/`**: Contiene la segunda entrega del proyecto final.
+  * `Avance 2 FIS205.pdf`: Al informe anterior se le agrega el formalismo de las OBE, desarrollo computacional, métodos numéricos, guía de uso y funcionamiento del código y conclusiones parciales para caso particular.
+  * `DinamicaQubit1.py`: Código fuente del simulador actual, utilizando `scipy.integrate.solve_ivp` para resolver la dinámica abierta.
+
 ---
 
 ## Requisitos y Dependencias
