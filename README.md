@@ -31,7 +31,7 @@ El material está organizado en las siguientes carpetas:
   * `DinamicaQubit1.py`: Código fuente del simulador actual, utilizando `scipy.integrate.solve_ivp` para resolver la dinámica cerrada.
 
 **`Proyecto_Avance_2/`**: Contiene la segunda entrega del proyecto final.
-  * `Avance 2 FIS205.pdf`: Al informe anterior se le agrega el formalismo de las OBE, desarrollo computacional, métodos numéricos, guía de uso y funcionamiento del código y conclusiones parciales para caso particular.
+  * `Avance 2 FIS205.pdf`: Al informe anterior se le agrega el formalismo de las OBE, desarrollo computacional, métodos numéricos, guía de uso, funcionamiento del código y conclusiones parciales para caso particular.
   * `DinamicaQubit1.py`: Código fuente del simulador actual, utilizando `scipy.integrate.solve_ivp` para resolver la dinámica abierta.
 
 ---
